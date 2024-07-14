@@ -1,0 +1,62 @@
+[
+    {
+        "title": "C++",
+        "imageSrc": "skills/c++.png",
+        "strength": 3
+    },
+    {
+        "title": "Linux/Bash",
+        "imageSrc": "skills/linux.png",
+        "strength": 3
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png",
+        "strength": 2
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png",
+        "strength": 2
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png",
+        "strength": 2
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png",
+        "strength": 2
+    },
+    {
+        "title": "Jupy. Ntbk",
+        "imageSrc": "skills/jupyter.png",
+        "strength": 1
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png",
+        "strength": 1
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png",
+        "strength": 1
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png",
+        "strength": 1
+    },
+    {
+        "title": "C#",
+        "imageSrc": "skills/c-sharp.png",
+        "strength": 1
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png",
+        "strength": 1
+    }
+]

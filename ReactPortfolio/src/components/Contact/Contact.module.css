@@ -1,0 +1,88 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    color: var(--color-text);
+    background: var(--color-secondary);
+    margin-top: 120px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
+    padding: 58px 10%;
+    gap: 10px;
+}
+
+.contactText h2{
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.contactText p {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.contactText div {
+    display: flex;
+    gap: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 100px;
+    background: var(--color-primary);
+    padding: 1px 22px;
+}
+
+.contactList {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 26px;
+}
+
+.contactList li {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.contactList a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+.contactList img {
+    width: 50px;
+    height: 50px;
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column;
+        gap: 23px;
+    }
+
+    .contactText {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contactList {
+        align-items: center;
+    }
+}
+
+
+

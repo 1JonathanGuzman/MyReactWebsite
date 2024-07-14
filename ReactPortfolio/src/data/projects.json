@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Linux Kernel Module",
+        "imageSrc": "projects/kernelModule.png",
+        "description": "A multi-threaded kernel module I wrote in C to emulate a CPU scheduler.",
+        "skills": ["C", "Linux/Bash", "Multi-threading", "Kernel programming"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/FSU-COP4610-Spring-2023/OS-Project-2"
+    },
+    {
+        "title": "SVM and Random Forest Mental Health Outcome Predictors",
+        "imageSrc": "projects/SVM_RF.png",
+        "description": "A data mining project that uses mental health data of gamers to predict their mental health outcomes.",
+        "skills": ["Python", "Jupyter Notebook", "Machine Learning", "scikit-learn", "Pandas", "NumPy", "seaborn", "matplotlib"],
+        "demo": "https://colab.research.google.com/drive/1MoNFxOgJrxYtwcnSPIOS6wvbh7GHX1YP?usp=drive_link",
+        "source": "https://github.com/1JonathanGuzman/Data-Mining-Project"
+    },
+    {
+        "title": "K-Means Clustering Algorithm(s)",
+        "imageSrc": "projects/kmeans.png",
+        "description": "Two versions of the K-Means clustering algorithm written from scratch. One in C++. One in Python.",
+        "skills": ["C++", "Machine Learning", "Python", "NumPy"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/FSU-COP4610-Spring-2023/OS-Project-3"
+    },
+    {
+        "title": "FAT32 File System in C",
+        "imageSrc": "projects/fat32.png",
+        "description": "A command line interpreter and file image parser that reads hex data in a FAT32 file image and provides commands to navigate it, as well as read and write to the contents.",
+        "skills": ["C", "Linux/Bash"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/FSU-COP4610-Spring-2023/OS-Project-3"
+    }
+]

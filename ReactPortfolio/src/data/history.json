@@ -1,0 +1,32 @@
+[
+    {
+        "role": "Software Engineering Intern",
+        "organization": "Dycom Inc",
+        "startDate": "June 5th, 2023",
+        "endDate": "August 7th, 2023",
+        "experiences": ["Front-end development of a bid processor in Outsystems and CSS",
+            "Developed in an Agile environment using Scrum and Kanban"
+        ],
+        "imageSrc": "history/dycom.png"
+    },
+    {
+        "role": "IT Support Desk Analyst",
+        "organization": "City of Tallahassee",
+        "startDate": "December 1st, 2021",
+        "endDate": "April 26th, 2024",
+        "experiences": ["Provided Tier 1 Support for all City of Tallahasse employees, citizens, and retirees",
+            "General technical troubleshooting for all tech-related issues"
+        ],
+        "imageSrc": "history/cot.png"
+    },
+    {
+        "role": "Advanced Coder - AI Training",
+        "organization": "Outlier",
+        "startDate": "June 3rd, 2024",
+        "endDate": "Present Day",
+        "experiences": ["Code reviewing AI generated code in Python",
+            "Reinforcement learning from human feedback"
+        ],
+        "imageSrc": "history/outlier.jpg"
+    }
+]

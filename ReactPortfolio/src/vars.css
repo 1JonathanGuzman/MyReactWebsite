@@ -1,0 +1,20 @@
+:root {
+    /* Colors */
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+    /* The code for the gold gradient was taken from: https://codepen.io/chilliconcode/pen/OWxqYR */
+    --color-gold: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+
+    /* The code for the silver and bronze gradients were adapted from the gold gradient found at: https://codepen.io/chilliconcode/pen/OWxqYR */
+    --color-silver: radial-gradient(ellipse farthest-corner at right bottom, #cfcfcd 0%, #9e9d9b 8%, #807866 30%, #44423c 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #fafac7 8%, #c2bfb8 25%, #bdb4a0 62.5%, #b3a78c 100%);
+
+    --color-bronze: radial-gradient(ellipse farthest-corner at right bottom, #fe8037 0%, #ff9e43 8%, #9f7928 30%, #8a532f 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #ffd1ac 8%, #d19064 25%, #5d3b1f 62.5%, #ac521d 100%);
+    /* Fonts */
+    --font-robot: "Roboto";
+}
