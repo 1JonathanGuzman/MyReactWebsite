@@ -40,11 +40,7 @@ export const About = () => {
                             React application to web servers hosted on cloud-based Linux
                             machines. These have been great exercises in reinforcing my 
                             TCP/IP, DNS, and HTTP/HTTPS knowledge, in addition to gaining
-                            exposure to technologies such as:
-                            <ul className={styles.netAndWebList}>
-                                <li>Nginx: Currently being used to host this application.</li>
-                                <li>Certbot: Used to certify this domain.</li>
-                            </ul>
+                            exposure to web technologies such as Nginx and Certbot.
                         </p>
                     </div>
                 </li>
