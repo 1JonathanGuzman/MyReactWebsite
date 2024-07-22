@@ -10,7 +10,7 @@ export const Contact = () => {
             <p>Feel free to reach out or check out the source code for this website!</p>
             <div>
               <p>Source code:</p>
-              <a href="https://github.com" className={styles.link} target="_blank">
+              <a href="https://github.com/1JonathanGuzman/MyReactWebsite" className={styles.link} target="_blank">
                 <img src={getImageUrl("contact/githubIcon.png")}/>
               </a>
             </div>
