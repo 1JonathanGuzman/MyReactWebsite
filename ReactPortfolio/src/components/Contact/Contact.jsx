@@ -4,7 +4,7 @@ import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
-    return <section className={styles.container}>
+    return <section className={styles.container} id="contact">
         <div className={styles.contactText}>
             <h2>Contact</h2>
             <p>Feel free to reach out or check out the source code for this website!</p>
